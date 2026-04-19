@@ -1,6 +1,3 @@
-# Test Repo
-Hello update
-This is a test update for PR
-PR test change - 1
-PR trigger change
-new change
+git commit -m "Your message
+
+Co-authored-by: Anadi99 <anadimishra973@gmail.com>
